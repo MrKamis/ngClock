@@ -1,4 +1,6 @@
+<div style="text-algin: center;">
 USING: 
+
 angular.module('yourapp', ['ngClock'])
 
 IN HTML:
@@ -8,3 +10,4 @@ IN HTML:
 OR 
 
 <ELEM clock=""></ELEM>
+</div>
